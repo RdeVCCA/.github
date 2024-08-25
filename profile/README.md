@@ -15,8 +15,8 @@ We also created the website for the RV **EcoTrail**, designed to promote environ
 
 ## Stay Connected
 
-- Follow us on Instagram: [@rdev_official](https://instagram.com/rdevcca)
-- Visit our website: [rdev.website](https://rdev.x10.mx)
+- Follow us on Instagram: [@rv.devs](https://instagram.com/rv.devs)
+- Visit our website: [rdev.x10.mx](https://rdev.x10.mx)
 
 ## Join Us
 
