@@ -8,10 +8,10 @@ Welcome to **RdeV**, the official software development club of River Valley High
 Our flagship project, **PeerView**, is a platform designed to help students share and discover online notes and resources with their peers. It’s built to facilitate a collaborative learning environment and make academic resources more accessible.
 
 ### 💻 RVCTF Website
-We developed the official website for **RVCTF**, River Valley High School’s Capture the Flag event. The website hosts challenges and leaderboards for participants to compete and learn cybersecurity skills.
+We developed the official website for **RVCTF**, River Valley High School’s Capture the Flag CCA. The website hosts challenges and leaderboards for participants to compete and learn cybersecurity skills.
 
 ### 🌿 EcoTrail Website
-We also created the website for the **EcoTrail** event, designed to promote environmental awareness within the school community.
+We also created the website for the RV **EcoTrail**, designed to promote environmental awareness within the school community.
 
 ## Stay Connected
 
